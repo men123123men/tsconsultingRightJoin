@@ -1,0 +1,4 @@
+2	JJJA
+4	B
+3	E
+2   JJJB
